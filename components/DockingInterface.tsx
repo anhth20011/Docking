@@ -691,10 +691,10 @@ fi
                     
                     <div className="bg-slate-900/50 rounded p-4 text-xs font-mono text-slate-300 border border-slate-800">
                         <p className="mb-2 text-science-400"># Windows</p>
-                        <p className="mb-4">> Extract zip & double-click "run_job.bat"</p>
+                        <p className="mb-4">&gt; Extract zip &amp; double-click "run_job.bat"</p>
                         <p className="mb-2 text-science-400"># Linux / macOS</p>
-                        <p>> chmod +x run_job.sh</p>
-                        <p>> ./run_job.sh</p>
+                        <p>&gt; chmod +x run_job.sh</p>
+                        <p>&gt; ./run_job.sh</p>
                     </div>
                 </div>
 
