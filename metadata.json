@@ -1,0 +1,8 @@
+{
+  "name": "BioDock AI Studio",
+  "description": "A comprehensive molecular docking suite featuring AutoDock Vina workflow simulation, Gemini-powered protein structure analysis, molecular visualization generation, and diagram editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
